@@ -1,0 +1,3 @@
+#Dependencies and requiremets needed for this to run
+#You can pip install these dependencies for an easier time
+1.~pip install django 
